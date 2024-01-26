@@ -23,10 +23,10 @@
     ],
     "homepage": "https://github.com/laravel-enso/packaging-units",
     "require": {
-        "laravel-enso/core": "^8.0",
+        "laravel-enso/core": "^9.0",
         "laravel-enso/data-import": "^6.0",
         "laravel-enso/forms": "^4.0",
-        "laravel-enso/helpers": "^2.0",
+        "laravel-enso/helpers": "^3.0",
         "laravel-enso/migrator": "^2.1",
         "laravel-enso/rememberable": "^3.0",
         "laravel-enso/select": "^4.0",
