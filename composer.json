@@ -45,5 +45,6 @@
                 "LaravelEnso\\PackagingUnits\\AppServiceProvider"
             ]
         }
-    }
+    },
+    "license": "MIT"
 }
