@@ -23,7 +23,7 @@
     ],
     "homepage": "https://github.com/laravel-enso/packaging-units",
     "require": {
-        "laravel-enso/core": "^11.0",
+        "laravel-enso/core": "^12.0",
         "laravel-enso/data-import": "^6.0",
         "laravel-enso/forms": "^4.0",
         "laravel-enso/helpers": "^3.0",
@@ -45,5 +45,6 @@
                 "LaravelEnso\\PackagingUnits\\AppServiceProvider"
             ]
         }
-    }
+    },
+    "license": "MIT"
 }
